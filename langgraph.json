@@ -1,0 +1,10 @@
+{
+  "graphs": {
+    "CodeAct": "./agent.py:code_act"
+  },
+  "env": ".env",
+  "python_version": "3.11.12",
+  "dependencies": [
+    "."
+  ]
+}
