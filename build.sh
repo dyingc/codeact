@@ -1,1 +1,1 @@
-docker build -t re . --load
+docker buildx build -t re . --load
